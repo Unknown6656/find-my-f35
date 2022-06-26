@@ -1,0 +1,38 @@
+@font-face {
+    font-weight: 200;
+    font-family: "Simplon";
+    font-style: normal;
+    src: url('RUAGSimplon-Light-WebXL.eot');
+    src: url('RUAGSimplon-Light-WebXL.eot#iefix') format("embedded-opentype"),
+        url('RUAGSimplon-Light-WebXL.woff2') format("woff2"),
+        url('RUAGSimplon-Light-WebXL.woff') format("woff"),
+        url('RUAGSimplon-Light-WebXL.ttf') format("truetype"),
+        url('RUAGSimplon-Light-WebXL.svg#Font') format("svg");
+    font-display: auto
+}
+
+@font-face {
+    font-weight: 400;
+    font-family: "Simplon";
+    font-style: normal;
+    src: url('RUAGSimplon-Regular-WebXL.eot');
+    src: url('RUAGSimplon-Regular-WebXL.eot#iefix') format("embedded-opentype"),
+        url('RUAGSimplon-Regular-WebXL.woff2') format("woff2"),
+        url('RUAGSimplon-Regular-WebXL.woff') format("woff"),
+        url('RUAGSimplon-Regular-WebXL.ttf') format("truetype"),
+        url('RUAGSimplon-Regular-WebXL.svg#Font') format("svg");
+    font-display: auto
+}
+
+@font-face {
+    font-weight: 600;
+    font-family: "Simplon";
+    font-style: normal;
+    src: url('RUAGSimplon-Medium-WebXL.eot');
+    src: url('RUAGSimplon-Medium-WebXL.eot#iefix') format("embedded-opentype"),
+        url('RUAGSimplon-Medium-WebXL.woff2') format("woff2"),
+        url('RUAGSimplon-Medium-WebXL.woff') format("woff"),
+        url('RUAGSimplon-Medium-WebXL.ttf') format("truetype"),
+        url('RUAGSimplon-Medium-WebXL.svg#Font') format("svg");
+    font-display: auto
+}
